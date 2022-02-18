@@ -1,4 +1,4 @@
-git+https://github.com/adityacheats/downloader@master
+git+https://github.com/Xoxomy9955/download
 pyrogram
 TgCrypto
 py-tgcalls
